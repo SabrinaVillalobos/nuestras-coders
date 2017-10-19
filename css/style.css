@@ -1,6 +1,7 @@
-body {
-	padding-bottom: 20px;
+body * {
+	padding-left: 3px;
 }
+
 h1 {
 	position: absolute;
 	line-height: 20px;
@@ -9,18 +10,18 @@ h1 {
 	font-family: 'Lato', sans-serif;
 	font-family: 'Roboto Slab', serif;
 	font-size: 24px;
-	left:23px;
+	left:26px;
 }
 
 .line {
 
 	position: absolute;
 	background: #474747;
-    padding: 1px; 
+    padding: 1px;
     width: 80px;
     height: 5px;
     top:59px;
-    left:23px;
+    left:26px;
 }
 
 .icon-minus:before {
@@ -33,7 +34,8 @@ hr{
 
 
 .girl1{
-
+	width: 60%;
+    height: auto;
 	position: absolute;
 	padding-top:87px;
 	top:10px;
